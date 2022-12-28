@@ -1,0 +1,497 @@
+[
+  {
+    "tconst": "tt0000001",
+    "averageRating": "5.7",
+    "numVotes": "1911"
+  },
+  {
+    "tconst": "tt0000002",
+    "averageRating": "5.8",
+    "numVotes": "257"
+  },
+  {
+    "tconst": "tt0000003",
+    "averageRating": "6.5",
+    "numVotes": "1716"
+  },
+  {
+    "tconst": "tt0000004",
+    "averageRating": "5.6",
+    "numVotes": "169"
+  },
+  {
+    "tconst": "tt0000005",
+    "averageRating": "6.2",
+    "numVotes": "2532"
+  },
+  {
+    "tconst": "tt0000006",
+    "averageRating": "5.1",
+    "numVotes": "173"
+  },
+  {
+    "tconst": "tt0000007",
+    "averageRating": "5.4",
+    "numVotes": "790"
+  },
+  {
+    "tconst": "tt0000008",
+    "averageRating": "5.4",
+    "numVotes": "2054"
+  },
+  {
+    "tconst": "tt0000009",
+    "averageRating": "5.2",
+    "numVotes": "199"
+  },
+  {
+    "tconst": "tt0000010",
+    "averageRating": "6.9",
+    "numVotes": "6929"
+  },
+  {
+    "tconst": "tt0000011",
+    "averageRating": "5.3",
+    "numVotes": "355"
+  },
+  {
+    "tconst": "tt0000012",
+    "averageRating": "7.4",
+    "numVotes": "11869"
+  },
+  {
+    "tconst": "tt0000013",
+    "averageRating": "5.7",
+    "numVotes": "1829"
+  },
+  {
+    "tconst": "tt0000014",
+    "averageRating": "7.1",
+    "numVotes": "5322"
+  },
+  {
+    "tconst": "tt0000015",
+    "averageRating": "6.2",
+    "numVotes": "1020"
+  },
+  {
+    "tconst": "tt0000016",
+    "averageRating": "5.9",
+    "numVotes": "1440"
+  },
+  {
+    "tconst": "tt0000017",
+    "averageRating": "4.6",
+    "numVotes": "314"
+  },
+  {
+    "tconst": "tt0000018",
+    "averageRating": "5.3",
+    "numVotes": "577"
+  },
+  {
+    "tconst": "tt0000019",
+    "averageRating": "5",
+    "numVotes": "31"
+  },
+  {
+    "tconst": "tt0000020",
+    "averageRating": "4.8",
+    "numVotes": "345"
+  },
+  {
+    "tconst": "tt0000022",
+    "averageRating": "5.1",
+    "numVotes": "1061"
+  },
+  {
+    "tconst": "tt0000023",
+    "averageRating": "5.7",
+    "numVotes": "1387"
+  },
+  {
+    "tconst": "tt0000024",
+    "averageRating": "4.2",
+    "numVotes": "99"
+  },
+  {
+    "tconst": "tt0000025",
+    "averageRating": "4",
+    "numVotes": "45"
+  },
+  {
+    "tconst": "tt0000026",
+    "averageRating": "5.6",
+    "numVotes": "1496"
+  },
+  {
+    "tconst": "tt0000027",
+    "averageRating": "5.6",
+    "numVotes": "1118"
+  },
+  {
+    "tconst": "tt0000028",
+    "averageRating": "5.1",
+    "numVotes": "1036"
+  },
+  {
+    "tconst": "tt0000029",
+    "averageRating": "5.9",
+    "numVotes": "3266"
+  },
+  {
+    "tconst": "tt0000030",
+    "averageRating": "5.2",
+    "numVotes": "820"
+  },
+  {
+    "tconst": "tt0000031",
+    "averageRating": "5.5",
+    "numVotes": "975"
+  },
+  {
+    "tconst": "tt0000032",
+    "averageRating": "5",
+    "numVotes": "408"
+  },
+  {
+    "tconst": "tt0000033",
+    "averageRating": "5.5",
+    "numVotes": "992"
+  },
+  {
+    "tconst": "tt0000034",
+    "averageRating": "5",
+    "numVotes": "190"
+  },
+  {
+    "tconst": "tt0000035",
+    "averageRating": "5.3",
+    "numVotes": "78"
+  },
+  {
+    "tconst": "tt0000036",
+    "averageRating": "4.4",
+    "numVotes": "594"
+  },
+  {
+    "tconst": "tt0000037",
+    "averageRating": "4.2",
+    "numVotes": "66"
+  },
+  {
+    "tconst": "tt0000038",
+    "averageRating": "4.1",
+    "numVotes": "197"
+  },
+  {
+    "tconst": "tt0000039",
+    "averageRating": "3.1",
+    "numVotes": "30"
+  },
+  {
+    "tconst": "tt0000040",
+    "averageRating": "4.2",
+    "numVotes": "64"
+  },
+  {
+    "tconst": "tt0000041",
+    "averageRating": "6.8",
+    "numVotes": "1772"
+  },
+  {
+    "tconst": "tt0000042",
+    "averageRating": "3.8",
+    "numVotes": "37"
+  },
+  {
+    "tconst": "tt0000043",
+    "averageRating": "3.6",
+    "numVotes": "32"
+  },
+  {
+    "tconst": "tt0000044",
+    "averageRating": "3.7",
+    "numVotes": "45"
+  },
+  {
+    "tconst": "tt0000045",
+    "averageRating": "4.1",
+    "numVotes": "33"
+  },
+  {
+    "tconst": "tt0000046",
+    "averageRating": "3.6",
+    "numVotes": "34"
+  },
+  {
+    "tconst": "tt0000047",
+    "averageRating": "3.1",
+    "numVotes": "34"
+  },
+  {
+    "tconst": "tt0000048",
+    "averageRating": "4.8",
+    "numVotes": "191"
+  },
+  {
+    "tconst": "tt0000049",
+    "averageRating": "4.8",
+    "numVotes": "49"
+  },
+  {
+    "tconst": "tt0000050",
+    "averageRating": "3.7",
+    "numVotes": "34"
+  },
+  {
+    "tconst": "tt0000051",
+    "averageRating": "3.2",
+    "numVotes": "35"
+  },
+  {
+    "tconst": "tt0000052",
+    "averageRating": "4.2",
+    "numVotes": "97"
+  },
+  {
+    "tconst": "tt0000053",
+    "averageRating": "2.7",
+    "numVotes": "18"
+  },
+  {
+    "tconst": "tt0000054",
+    "averageRating": "4.5",
+    "numVotes": "34"
+  },
+  {
+    "tconst": "tt0000055",
+    "averageRating": "3.2",
+    "numVotes": "30"
+  },
+  {
+    "tconst": "tt0000056",
+    "averageRating": "2.5",
+    "numVotes": "22"
+  },
+  {
+    "tconst": "tt0000057",
+    "averageRating": "4.5",
+    "numVotes": "34"
+  },
+  {
+    "tconst": "tt0000058",
+    "averageRating": "4.3",
+    "numVotes": "33"
+  },
+  {
+    "tconst": "tt0000059",
+    "averageRating": "3",
+    "numVotes": "27"
+  },
+  {
+    "tconst": "tt0000060",
+    "averageRating": "7.4",
+    "numVotes": "87"
+  },
+  {
+    "tconst": "tt0000061",
+    "averageRating": "4.1",
+    "numVotes": "24"
+  },
+  {
+    "tconst": "tt0000062",
+    "averageRating": "6.3",
+    "numVotes": "193"
+  },
+  {
+    "tconst": "tt0000063",
+    "averageRating": "2.9",
+    "numVotes": "28"
+  },
+  {
+    "tconst": "tt0000064",
+    "averageRating": "2.7",
+    "numVotes": "29"
+  },
+  {
+    "tconst": "tt0000065",
+    "averageRating": "2.9",
+    "numVotes": "29"
+  },
+  {
+    "tconst": "tt0000066",
+    "averageRating": "2.8",
+    "numVotes": "29"
+  },
+  {
+    "tconst": "tt0000067",
+    "averageRating": "5.6",
+    "numVotes": "62"
+  },
+  {
+    "tconst": "tt0000068",
+    "averageRating": "3.3",
+    "numVotes": "31"
+  },
+  {
+    "tconst": "tt0000069",
+    "averageRating": "4.9",
+    "numVotes": "441"
+  },
+  {
+    "tconst": "tt0000070",
+    "averageRating": "6.4",
+    "numVotes": "2574"
+  },
+  {
+    "tconst": "tt0000071",
+    "averageRating": "3.5",
+    "numVotes": "29"
+  },
+  {
+    "tconst": "tt0000072",
+    "averageRating": "3.2",
+    "numVotes": "27"
+  },
+  {
+    "tconst": "tt0000073",
+    "averageRating": "2.9",
+    "numVotes": "30"
+  },
+  {
+    "tconst": "tt0000074",
+    "averageRating": "4.1",
+    "numVotes": "31"
+  },
+  {
+    "tconst": "tt0000075",
+    "averageRating": "6.3",
+    "numVotes": "1866"
+  },
+  {
+    "tconst": "tt0000076",
+    "averageRating": "4.4",
+    "numVotes": "523"
+  },
+  {
+    "tconst": "tt0000077",
+    "averageRating": "4.1",
+    "numVotes": "35"
+  },
+  {
+    "tconst": "tt0000078",
+    "averageRating": "3.6",
+    "numVotes": "76"
+  },
+  {
+    "tconst": "tt0000079",
+    "averageRating": "4.4",
+    "numVotes": "35"
+  },
+  {
+    "tconst": "tt0000080",
+    "averageRating": "3.5",
+    "numVotes": "31"
+  },
+  {
+    "tconst": "tt0000081",
+    "averageRating": "3.6",
+    "numVotes": "32"
+  },
+  {
+    "tconst": "tt0000082",
+    "averageRating": "4.5",
+    "numVotes": "49"
+  },
+  {
+    "tconst": "tt0000083",
+    "averageRating": "4.2",
+    "numVotes": "32"
+  },
+  {
+    "tconst": "tt0000084",
+    "averageRating": "4",
+    "numVotes": "30"
+  },
+  {
+    "tconst": "tt0000085",
+    "averageRating": "4.2",
+    "numVotes": "33"
+  },
+  {
+    "tconst": "tt0000086",
+    "averageRating": "3.7",
+    "numVotes": "33"
+  },
+  {
+    "tconst": "tt0000087",
+    "averageRating": "4.3",
+    "numVotes": "37"
+  },
+  {
+    "tconst": "tt0000088",
+    "averageRating": "3.7",
+    "numVotes": "32"
+  },
+  {
+    "tconst": "tt0000089",
+    "averageRating": "6.2",
+    "numVotes": "977"
+  },
+  {
+    "tconst": "tt0000090",
+    "averageRating": "3.5",
+    "numVotes": "31"
+  },
+  {
+    "tconst": "tt0000091",
+    "averageRating": "6.7",
+    "numVotes": "3479"
+  },
+  {
+    "tconst": "tt0000092",
+    "averageRating": "4",
+    "numVotes": "29"
+  },
+  {
+    "tconst": "tt0000093",
+    "averageRating": "4.7",
+    "numVotes": "93"
+  },
+  {
+    "tconst": "tt0000094",
+    "averageRating": "4.5",
+    "numVotes": "32"
+  },
+  {
+    "tconst": "tt0000095",
+    "averageRating": "4.3",
+    "numVotes": "34"
+  },
+  {
+    "tconst": "tt0000096",
+    "averageRating": "3.8",
+    "numVotes": "29"
+  },
+  {
+    "tconst": "tt0000097",
+    "averageRating": "4.5",
+    "numVotes": "33"
+  },
+  {
+    "tconst": "tt0000098",
+    "averageRating": "4.6",
+    "numVotes": "36"
+  },
+  {
+    "tconst": "tt0000099",
+    "averageRating": "4.1",
+    "numVotes": "32"
+  },
+  {
+    "tconst": "tt0000100",
+    "averageRating": "4.6",
+    "numVotes": "53"
+  }
+]
